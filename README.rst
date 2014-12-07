@@ -1,7 +1,7 @@
 eulasees
 ==============================
 
-Django project for eulasees koding hackathon project"
+Django project for eulasees koding hackathon project
 
 
 LICENSE: BSD
